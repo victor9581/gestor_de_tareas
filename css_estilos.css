@@ -1,0 +1,20 @@
+body {
+    background-color: #f4f6f8;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+.btn {
+    border-radius: 10px;
+}
+body {
+    background-image: url("img_fondo.jpg"); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    color: #fff;
+}
+
